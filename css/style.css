@@ -21,7 +21,7 @@ body {
 }
 
 a {
-  color: #a5d05e;
+  color: #516F20;
   text-decoration: none;
 }
 
@@ -294,7 +294,7 @@ Main Components
   float: right;
 }
 .cd-item-info .cd-price {
-  color: #a5d05e;
+  color: #516F20;
   position: relative;
   margin-left: 10px;
   -webkit-transition: color 0.2s;
@@ -315,7 +315,7 @@ Main Components
   left: 0;
   height: 2px;
   width: 0%;
-  background-color: #a5d05e;
+  background-color: #516F20;
   opacity: 0;
   -webkit-transition: width 0.2s 0s, opacity 0s 0.2s;
   -moz-transition: width 0.2s 0s, opacity 0s 0.2s;
